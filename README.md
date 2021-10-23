@@ -30,7 +30,7 @@
   
   <img width=40% src="Assets/i1.png"> &ensp;
 
-  ## `LICENSE`
-  #
+## `LICENSE`
+#
 
 Licensed under the [MIT LICENSE](LICENSE).
